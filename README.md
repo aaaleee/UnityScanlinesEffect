@@ -7,8 +7,3 @@ How to use:
 -Set the ScanlinesEffect shader in the shader property.
 
 -Tweak values.
-
-To do: 
-
--Scanline thickness changes with screen resolution, which is not always a good thing and needs to be fixed.
-
